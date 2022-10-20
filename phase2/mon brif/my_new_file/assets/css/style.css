@@ -812,13 +812,7 @@ span.feature-review {margin-left: 10px;}
 /*-------------------------------------
         9. Clients
 --------------------------------------*/
-.clients {
-    background: #f8f9fd;
-    display: flex;
-    align-items: center;
-    height: 220px;
-}
-.clients .item {text-align: center;}
+
 /*-------------------------------------
         10. News-letter
 --------------------------------------*/
