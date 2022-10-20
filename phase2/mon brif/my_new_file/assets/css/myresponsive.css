@@ -1,4 +1,4 @@
-@media screen  and (max-width:912px){
+@media screen  and (max-width:800px){
 
     .flex-container{
         display: flex;
@@ -21,6 +21,16 @@
     .buttonform{
         width: 400px;
         height: 50px;
+    }
+    
+}
+
+@media screen and (min-width:800px) and (max-width:912px) {
+    .contact{
+        width: 50%;
+    }
+    .form{
+        width: 50%;
     }
     
 }
