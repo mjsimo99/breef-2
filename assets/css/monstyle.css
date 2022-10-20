@@ -1,4 +1,5 @@
 body{
+    background-color: #EFE7B5;
 }
 .navbar-brand{
     margin-top:  -5px;
@@ -72,10 +73,10 @@ body{
     color: black;
     border: 2px solid #e99c2e; /* Green */
   }
-.colorback{
-    /* background-color:black ; */
-}
+
 .wrap-sticky nav.navbar.bootsnav.sticked {
+    background-color:#efe7b5;
+
 
     /* background-color: #ccff66; */
 
@@ -83,9 +84,12 @@ body{
 
 }
 .clients {
-    background: #f8f9fd;
+    background: #4d4b3b;
     display: flex;
     align-items: center;
     height: 220px;
 }
 .clients .item {text-align: center;}
+.footer{
+    background-color: #4d4b3b;
+}

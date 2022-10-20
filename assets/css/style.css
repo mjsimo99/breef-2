@@ -303,7 +303,7 @@ ul.cart-list > li.total {
 .welcome-hero {
     position: relative;
     z-index: 1;
-    background: #f8f9fd;
+    background: #EFE7B5
 }
 .header-area{position: absolute;top:0;left:0;width: 100%;z-index: 99;}
 .single-slide-item{
