@@ -1,5 +1,6 @@
 body{
-    background-color: #EFE7B5;
+    background-color:  #EDEAE8;
+
 }
 .navbar-brand{
     margin-top:  -5px;
@@ -71,11 +72,11 @@ body{
 .buttonform:hover {
     background-color: white;
     color: black;
-    border: 2px solid #e99c2e; /* Green */
+    border: 2px solid #EEEDEA; /* Green */
   }
 
 .wrap-sticky nav.navbar.bootsnav.sticked {
-    background-color:#efe7b5;
+    background-color: #EDEAE8;
 
 
     /* background-color: #ccff66; */
@@ -84,12 +85,17 @@ body{
 
 }
 .clients {
-    background: #4d4b3b;
+    background: #383F42;
     display: flex;
     align-items: center;
     height: 220px;
 }
 .clients .item {text-align: center;}
 .footer{
-    background-color: #4d4b3b;
+    background-color: #383F42;
+}
+.top-search{
+    background-color: #383F42;
+    padding: 10px 0;
+    display: none;
 }

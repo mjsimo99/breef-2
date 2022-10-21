@@ -303,7 +303,9 @@ ul.cart-list > li.total {
 .welcome-hero {
     position: relative;
     z-index: 1;
-    background: #EFE7B5
+    /* background: #FDFEFE   ; */
+    background-image: url("/assets/images/japandi-living-room-interior-design.jpg");
+
 }
 .header-area{position: absolute;top:0;left:0;width: 100%;z-index: 99;}
 .single-slide-item{
@@ -463,7 +465,7 @@ ul.cart-list > li.total {
 .single-populer-products{
     position: relative;
     min-height:280px;
-    background: #f8f9fc;
+    background: #F8F9FD;
     text-align: center;
     overflow:hidden;
 }
@@ -594,10 +596,10 @@ ul.cart-list > li.total {
     line-height: 30px;
     text-align: center;
 }
-.sale p{color: #fff;font-weight: 500;font-size:14px;line-height: 2.2;}
+.sale p{color: #ffffff;font-weight: 500;font-size:14px;line-height: 2.2;}
 
 .sale.bg-1{background: #d8924c;}
-.sale.bg-2{background: #47d93c;}
+.sale.bg-2{background: #383F42;}
 
 .new-arrival-cart {
     position: absolute;
